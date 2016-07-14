@@ -209,7 +209,7 @@ Configuration > Actions Create ボタンクリック
 ![Imgur](http://i.imgur.com/zWJpmAi.png)
 
 
-## 総評
+## 今後
 
 当方、運用し始めです。  
 障害レベルによってメッセージを変更したりと今後更新検討致します。

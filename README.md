@@ -35,7 +35,7 @@ Configuration > Hosts > create
 
 プロジェクト毎にインシデントを管理します。
 
-https://<Organization ID>.reactio.jp/settings/project
+https://`<Organization ID>`.reactio.jp/settings/project
 
 Zabbix 管理画面で設定している Host 名を Project 名とする。
 
